@@ -1,3 +1,3 @@
 # trimLeadingTrailingApp
 
-BEFORE JAVA 17
+BEFORE JAVA 11
